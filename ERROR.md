@@ -18,12 +18,12 @@
 
 <Hr/>
 
-![img.png](img.png)
+![img.png](images/img.png)
 
 ## Issue 2. Pod Evicted 문제
 > 오류 내용
 >> 대부분의 Pod이 Evicted 상태로 Pod이 늘어남
-![img_1.png](img_1.png)
+![img_1.png](images/img_1.png)
 
 > 해결
 >> 노드가 Disk Pressure 상태여서 Disk를 늘려서 해결함.
